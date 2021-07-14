@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6.1">
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\androidTest\java\pdf\debzaiopdf\ApplicationTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\androidTest\java\pdf\debzaiopdf\util\DirectoryUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\CropImageActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\FavouritesActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\ImageEditor.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\ImagesPreviewActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\MainActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\PreviewActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\RearrangeImages.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\RearrangePdfPages.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\activity\WelcomeActivity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\BrushItemAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\EnhancementOptionsAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\ExtractImagesAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\FAQAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\FilesListAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\HistoryAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\ImageFiltersAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\MergeFilesAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\MergeSelectedFilesAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\PreviewAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\PreviewImageOptionsAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\RearrangeImagesAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\RearrangePdfAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\RecentListAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\adapter\ViewFilesAdapter.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\customviews\MyCardView.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\database\AppDatabase.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\database\DatabaseHelper.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\database\History.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\database\HistoryDao.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\AboutUsFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\AddImagesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\AddTextFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\ExceltoPdfFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\ExtractTextFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\FAQFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\FavouritesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\HistoryFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\HomeFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\ImageToPdfFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\InvertPdfFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\MergeFilesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\PdfToImageFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\QrBarcodeScanFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\RemoveDuplicatePagesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\RemovePagesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\SettingsFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\SplitFilesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\ViewFilesFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\ZipToPdfFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\Enhancers.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\FontColorEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\FontFamilyEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\FontSizeEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\PageColorEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\PageSizeEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\PasswordEnhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\TextToPdfContract.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\fragment\texttopdf\TextToPdfFragment.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\BottomSheetPopulate.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\DataSetChanged.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\EmptyStateChangeListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\Enhancer.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\ExtractImagesListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\ItemSelectedListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\MergeFilesListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnBackPressedInterface.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnFilterItemClickedListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnItemClickListener.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnPDFCompressedInterface.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnPDFCreatedInterface.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnPdfReorderedInterface.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\interfaces\OnTextToPdfInterface.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\BrushItem.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\EnhancementOptionsEntity.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\FAQItem.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\FilterItem.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\HomePageItem.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\ImageToPDFOptions.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\PDFFile.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\PDFOptions.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\PreviewImageOptionItem.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\TextToPDFOptions.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\Watermark.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\model\WhatsNew.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\preferences\TextToPdfPreferences.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\providers\fragmentmanagement\FragmentManagement.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\providers\fragmentmanagement\IFragmentManagement.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\AddTextEnhancementOptionsUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\BottomSheetCallback.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\BottomSheetUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\BrushUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ColorUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\CommonCodeUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\Constants.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\CreatePdf.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\DialogUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\DirectoryUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\DocFileReader.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\DocxFileReader.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ExcelToPDFAsync.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ExtractImages.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FavouritesPreferences.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FeedbackUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FileReader.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FileSortUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FileUriUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FileUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\FragmentUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ImageEnhancementOptionsUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ImageFilterUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ImageSortUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ImageUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\InvertPdf.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\MergeHelper.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\MergePdf.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\MergePdfEnhancementOptionsUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\MorphButtonUtility.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\MoveFilesToDirectory.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PDFApplication.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PDFEncryptionUtility.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PDFRotationUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PDFUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PageSizeUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PdfToImages.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PermissionsUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PopulateBottomSheetList.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PopulateBottomSheetListWithExcelFiles.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PopulateList.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\PrintDocumentAdapterHelper.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\RealPathUtil.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\RecentUtil.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\RemoveDuplicates.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ResultUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\SettingsOptions.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\SplitPDFUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\StringUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\TextEnhancementOptionsUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\TextFileReader.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\TextToPDFUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\TextToPdfAsync.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ThemeUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ViewFilesDividerItemDecoration.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\WatermarkPageEvent.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\WatermarkUtils.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\java\pdf\debzaiopdf\util\ZipToPdf.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\pdf\debzaiopdf\util\ColorUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\pdf\debzaiopdf\util\FileSortUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\pdf\debzaiopdf\util\ImageSortUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\pdf\debzaiopdf\util\ImageUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\util\FileUtilsTest.java">
+</file>
+<file name="C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\test\java\util\PDFUtilsTest.java">
+</file>
+</checkstyle>

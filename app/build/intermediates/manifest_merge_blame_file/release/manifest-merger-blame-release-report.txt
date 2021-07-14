@@ -1,0 +1,225 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- suppress AndroidDomInspection -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="pdf.debzaiopdf"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:7:22-77
+14
+15    <uses-feature android:name="android.hardware.camera" />
+15-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:9:5-60
+15-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:9:19-57
+16    <uses-feature
+16-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:10:5-12:36
+17        android:name="android.hardware.camera.autofocus"
+17-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:11:9-57
+18        android:required="false" />
+18-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:12:9-33
+19
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:14:5-65
+20-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:14:22-62
+21
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+23        android:name="android.hardware.camera.front"
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+26        android:name="android.hardware.camera.flash"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+29        android:name="android.hardware.screen.landscape"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+32        android:name="android.hardware.wifi"
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+34
+35    <application
+35-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:16:5-81:19
+36        android:name="pdf.debzaiopdf.util.PDFApplication"
+36-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:17:9-58
+37        android:allowBackup="true"
+37-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:18:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.3.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\6e2504f39dd44e248b4d4a4f430e4151\core-1.3.0\AndroidManifest.xml:24:18-86
+39        android:fullBackupContent="@xml/backup_descriptor"
+39-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:19:9-59
+40        android:hardwareAccelerated="true"
+40-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:20:9-43
+41        android:icon="@drawable/app_icon"
+41-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:21:9-42
+42        android:label="@string/app_name"
+42-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:22:9-41
+43        android:largeHeap="true"
+43-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:24:9-33
+44        android:requestLegacyExternalStorage="true"
+44-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:25:9-52
+45        android:roundIcon="@drawable/ic_launcher_round"
+45-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:23:9-56
+46        android:supportsRtl="true"
+46-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:26:9-35
+47        android:theme="@style/AppThemeWhite" >
+47-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:27:9-45
+48
+49        <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+50
+51        <activity
+51-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:31:9-33:59
+52            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+52-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:32:13-76
+53            android:theme="@style/Base.Theme.AppCompat" />
+53-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:33:13-56
+54        <activity
+54-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:34:9-60:20
+55            android:name="pdf.debzaiopdf.activity.MainActivity"
+55-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:35:13-64
+56            android:label="@string/app_name"
+56-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:36:13-45
+57            android:screenOrientation="portrait"
+57-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:37:13-49
+58            android:windowSoftInputMode="adjustPan" >
+58-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:38:13-52
+59            <intent-filter>
+59-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:39:13-43:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:40:17-69
+60-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:40:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:42:17-77
+62-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:42:27-74
+63            </intent-filter>
+64            <intent-filter>
+64-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:45:13-49:29
+65                <action android:name="android.intent.action.SEND_MULTIPLE" />
+65-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:46:17-78
+65-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:46:25-75
+66
+67                <category android:name="android.intent.category.DEFAULT" />
+67-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:47:17-76
+67-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:47:27-73
+68
+69                <data android:mimeType="image/*" />
+69-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:48:17-52
+69-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:48:23-49
+70            </intent-filter>
+71            <intent-filter>
+71-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:51:13-55:29
+72                <action android:name="android.intent.action.SEND" />
+72-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:52:17-69
+72-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:52:25-66
+73
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:47:17-76
+74-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:47:27-73
+75
+76                <data android:mimeType="image/*" />
+76-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:48:17-52
+76-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:48:23-49
+77            </intent-filter>
+78
+79            <meta-data
+79-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:57:13-59:53
+80                android:name="android.app.shortcuts"
+80-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:58:17-53
+81                android:resource="@xml/shortcuts" />
+81-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:59:17-50
+82        </activity>
+83        <activity android:name="pdf.debzaiopdf.activity.CropImageActivity" />
+83-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:61:9-78
+83-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:61:19-75
+84
+85        <provider
+85-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:63:9-71:20
+86            android:name="androidx.core.content.FileProvider"
+86-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:64:13-62
+87            android:authorities="com.pdf.debzaiopdf"
+87-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:65:13-53
+88            android:exported="false"
+88-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:66:13-37
+89            android:grantUriPermissions="true" >
+89-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:67:13-47
+90            <meta-data
+90-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:68:13-70:58
+91                android:name="android.support.FILE_PROVIDER_PATHS"
+91-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:69:17-67
+92                android:resource="@xml/provider_paths" />
+92-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:70:17-55
+93        </provider>
+94
+95        <activity android:name="pdf.debzaiopdf.activity.WelcomeActivity" />
+95-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:73:9-76
+95-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:73:19-73
+96        <activity android:name="pdf.debzaiopdf.activity.ImageEditor" />
+96-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:74:9-72
+96-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:74:19-69
+97        <activity android:name="pdf.debzaiopdf.activity.PreviewActivity" />
+97-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:75:9-76
+97-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:75:19-73
+98        <activity android:name="pdf.debzaiopdf.activity.RearrangeImages" />
+98-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:76:9-76
+98-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:76:19-73
+99        <activity android:name="pdf.debzaiopdf.activity.ImagesPreviewActivity" />
+99-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:77:9-82
+99-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:77:19-79
+100        <activity android:name="pdf.debzaiopdf.activity.RearrangePdfPages" />
+100-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:78:9-78
+100-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:78:19-75
+101        <activity android:name="pdf.debzaiopdf.activity.FavouritesActivity" />
+101-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:79:9-78
+101-->C:\Users\debay\AndroidStudioProjects\codecanyon-28587991-advance-pdf-tool\Advance PDF App\app\src\main\AndroidManifest.xml:79:19-76
+102        <activity android:name="com.zhihu.matisse.ui.MatisseActivity" />
+102-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:28:9-73
+102-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:28:19-70
+103        <activity android:name="com.zhihu.matisse.internal.ui.AlbumPreviewActivity" />
+103-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:29:9-87
+103-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:29:19-84
+104        <activity android:name="com.zhihu.matisse.internal.ui.SelectedPreviewActivity" />
+104-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:30:9-90
+104-->[com.zhihu.android:matisse:0.5.3-beta3] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\9a87af22f0fd4e52b3ea78824ee99716\matisse-0.5.3-beta3\AndroidManifest.xml:30:19-87
+105        <activity
+105-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+106            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+106-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+107            android:clearTaskOnLaunch="true"
+107-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+108            android:screenOrientation="sensorLandscape"
+108-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+109            android:stateNotNeeded="true"
+109-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+110            android:theme="@style/zxing_CaptureTheme"
+110-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+111            android:windowSoftInputMode="stateAlwaysHidden" />
+111-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\c5db5602c1eea84903988ff1417a188d\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+112        <activity
+112-->[lib.kashif:folderpicker:2.4] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:15:9-17:52
+113            android:name="lib.folderpicker.FolderPicker"
+113-->[lib.kashif:folderpicker:2.4] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:16:13-57
+114            android:screenOrientation="portrait" />
+114-->[lib.kashif:folderpicker:2.4] C:\Users\debay\.gradle\caches\transforms-2\files-2.1\ac0fb0a134aef16e17749daab7722152\folderpicker-2.4\AndroidManifest.xml:17:13-49
+115    </application>
+116
+117</manifest>

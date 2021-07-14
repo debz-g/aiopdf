@@ -1,0 +1,16 @@
+#Tue Jul 06 12:49:47 IST 2021
+path.4=classes5.dex
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+base.4=C\:\\Users\\debay\\AndroidStudioProjects\\codecanyon-28587991-advance-pdf-tool\\Advance PDF App\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes5.dex
+base.3=C\:\\Users\\debay\\AndroidStudioProjects\\codecanyon-28587991-advance-pdf-tool\\Advance PDF App\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes4.dex
+base.2=C\:\\Users\\debay\\AndroidStudioProjects\\codecanyon-28587991-advance-pdf-tool\\Advance PDF App\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes3.dex
+base.1=C\:\\Users\\debay\\AndroidStudioProjects\\codecanyon-28587991-advance-pdf-tool\\Advance PDF App\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes2.dex
+base.0=C\:\\Users\\debay\\AndroidStudioProjects\\codecanyon-28587991-advance-pdf-tool\\Advance PDF App\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex
